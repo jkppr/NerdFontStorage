@@ -1,4 +1,4 @@
-# NerdFontStorage
+# Nerd Font for Terminal on chromeOS
 Storing some Nerd Fonts to be used with Crostini (Linux on Chrome OS)
 
 To get `powerlevel10k` working with my chromeOS crostini I followed the instructions here: https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k
